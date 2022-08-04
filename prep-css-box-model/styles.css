@@ -1,0 +1,22 @@
+/* stylelint-disable declaration-block-no-redundant-longhand-properties */
+body {
+  text-align: center;
+}
+
+button {
+  background-color: red;
+  color: white;
+
+  /* 👇 YOUR CODE HERE 👇 */
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-style: double;
+  border-width: 3px;
+  border-color: darkgray;
+}
